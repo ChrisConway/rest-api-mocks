@@ -1,0 +1,18 @@
+{
+    "cities": [
+        {
+            "cityName": "Munich",
+            "cityId": 1,
+            "cityWeather": "15C",
+            "imgUrl":"https://via.placeholder.com/600/771796",
+            "cityText": "Too cold to go swimming"
+        },
+        {
+            "cityName": "Toronto",
+            "cityId": 2,
+            "cityWeather": "-15C",
+            "imgUrl":"https://via.placeholder.com/600/771796",
+            "cityText": "Too cold to go outside"        
+        }
+    ]
+}
